@@ -1,2 +1,2 @@
 # HastanePersonel
-![Screenshot](cikti.jpeg)
+Hastane personel kayıt, maaş karşılaştırma, bilgileri görüntüleme işlemleri yapılmıştır.
